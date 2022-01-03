@@ -1,0 +1,50 @@
+body{
+	background-color: ghostwhite;
+	font-family: arial;
+	margin: 0;
+	padding: 0;
+}
+fieldset{
+	margin: 0;
+	padding: 0;
+	border-radius: 0.5rem;
+}
+img{
+	width: 60%;
+	margin: 0;
+	padding: 0;
+	border-radius: 0.5rem;
+}
+#homepage-header{
+	background: yellow;
+	color: green;
+}
+.grayed{
+	background: green;
+	color: ghostwhite;
+	padding: 7px;
+}
+#gry{
+	color: red;
+}
+#sly{
+	color: green;
+}
+#huf{
+	color: yellow;
+}
+#rav{
+	color: blue;
+}
+.center{
+	text-align: center;
+}
+.contactus{
+	text-align: center;
+}
+.contactus label{
+	color: green;
+}
+.contactus label h3{
+	color: black;
+}
